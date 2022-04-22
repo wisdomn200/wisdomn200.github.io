@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning blockchain and web3 
 - 👯 I’m looking to collaborate on open source projects
 - 💼 I’m looking for a frontend job. (Full-time)
-- 💬 Ask me about my projects, React and Nodejs
-- 📫 How to reach me: Twitter: Twitter.com/wisdomn_
+- 💬 Ask me about my projects, React and Nodejs.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm always learning 🌵
